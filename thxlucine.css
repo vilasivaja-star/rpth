@@ -1,4 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+@font-face {
+  font-family: Call of Ops Duty II; 
+  src: url("https://vilasivaja-star.github.io/rpth/CallofOpsDutyII.otf");
+}
+@font-face { 
+  font-family: Velvet Quilt Display; 
+  src: url("https://vilasivaja-star.github.io/rpth/VelvetQuilt-Display.otf");
+}
 .lucrp1 {
   width: 90%; 
   max-width: 685px; 
@@ -36,7 +44,7 @@
   margin-top: -10px;
 }
 .lucrp5 {
-  font-family:'VelvetQuilt Display font', sans-serif;
+  font-family:'Velvet Quilt Display', sans-serif;
   padding: 0px 10px;
   margin-top: -13px;
   border: 1px solid #313131;
